@@ -1,0 +1,5 @@
+I have created this project to analyze tweeter sentiment value of perticular twitter account handle, 
+for example if i give input tweeter handle name as "elonmusk", by using tweeter API and python
+library tweepy it will fetch the last 100 tweets and save it in a dataframe. Next step is to clean the data to be analyze. 
+To detect sentiment values from the text i used a TextBlob libray of python.
+Finally i used flask application to start the localhost and host my web application on it.
